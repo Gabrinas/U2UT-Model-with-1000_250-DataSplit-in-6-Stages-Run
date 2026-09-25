@@ -1,0 +1,391 @@
+
+Unnormalised
+Nítorí náà, bí ẹgbẹ́ yìí ṣe jẹ́ àwọn ọ̀ràn pneumonia tòótọ́ nípa àbájáde ọ̀kan, a ń gbé q sókè nípa ọ̀kan/(ìfàmọ́ra CXR).
+alítorí náà bii ipe iṣè jẹ́ àwọn orò ní òyìn à tóò tọ́lẹ̀ pàrá àpá jádé ògùn, tó àwọn báìkìrò sókè nípa ọ̀pọ̀.
+Normalised
+['nitori naa bi egbe yii se je awon oran pneumonia tooto nipa abajade okan a n gbe q soke nipa okanifamora cxr']
+['alitori naa bii ipe ise je awon oro ni oyin a too tole para apa jade ogun to awon baikiro soke nipa opo']
+BLEU score: 5.154337627145953
+WER: 0.9090909090909091
+CER: 0.49074074074074076
+
+Unnormalised
+Àwòrán ọ̀nà tí a lò láti ṣe ìṣirò PPV ti ibà tí ó wà nínú ìṣègùn gẹ́gẹ́ bí WHO ṣe ṣàlàyé rẹ̀.
+aworan náà tí a ló láti ṣe iṣiro píbírí, tí ìbá tí ó wà, mẹ́lù ìṣe ọ̀gẹ́gẹ̀bí, wọ́n dín ọ̀tọ̀ balẹ̀zíṣọ̀ ń ṣe iṣẹ́ láyé ìrẹ̀.
+Normalised
+['aworan ona ti a lo lati se isiro ppv ti iba ti o wa ninu isegun gege bi who se salaye re']
+['aworan naa ti a lo lati se isiro pibiri ti iba ti o wa melu ise ogegebi won din oto baleziso n se ise laye ire']
+BLEU score: 32.685141385924574
+WER: 0.5909090909090909
+CER: 0.4431818181818182
+
+Unnormalised
+Àwòrán ọ̀nà tí a lò láti ṣe ìṣirò PPV ti ibà tí ó wà nínú ìṣègùn gẹ́gẹ́ bí WHO ṣe ṣàlàyé rẹ̀.
+àwọn ọmọ ti àlù láti ṣe ìṣirò pípírí ti ìbá tí ó wà pẹ̀lú lè ṣe ẹ̀gbọ́ gẹ́gẹ́gẹ́gẹ́ wọ́n yóò ṣọ̀gára ẹgbẹ́sọ̀ ṣe ṣẹ̀ láyé
+Normalised
+['aworan ona ti a lo lati se isiro ppv ti iba ti o wa ninu isegun gege bi who se salaye re']
+['awon omo ti alu lati se isiro pipiri ti iba ti o wa pelu le se egbo gegegege won yoo sogara egbeso se se laye']
+BLEU score: 19.940445989088907
+WER: 0.7272727272727273
+CER: 0.5340909090909091
+
+Unnormalised
+Àwòrán ọ̀nà tí a lò láti ṣe ìṣirò PPV ti ibà tí ó wà nínú ìṣègùn gẹ́gẹ́ bí WHO ṣe ṣàlàyé rẹ̀.
+àwọn ọmọ ti àlù láti ṣe ìṣirò pẹpẹ tí ìgbà tí ó wà nínú iṣẹ́ gbogbo ẹ̀gẹ́gbẹ̀rẹ̀, wọ́n kí ó ti baalé jíṣọ́ ṣe ẹ̀ṣọ́ náà yìí.
+Normalised
+['aworan ona ti a lo lati se isiro ppv ti iba ti o wa ninu isegun gege bi who se salaye re']
+['awon omo ti alu lati se isiro pepe ti igba ti o wa ninu ise gbogbo egegbere won ki o ti baale jiso se eso naa yii']
+BLEU score: 13.737279171076757
+WER: 0.8181818181818182
+CER: 0.5340909090909091
+
+Unnormalised
+Àwòrán ọ̀nà tí a lò láti ṣe ìṣirò PPV ti ibà tí ó wà nínú ìṣègùn gẹ́gẹ́ bí WHO ṣe ṣàlàyé rẹ̀.
+àwọn ọmọ ti àlù láti ṣe ìṣirò gbígbẹ́ tí ìgbà tí ó wà ní ilé ìṣẹ̀ gbígbé gbígbé pọ́pọ́ tí kán lísìsàn ṣe ìṣọ́lá gẹ́gẹ́ rẹ̀.
+Normalised
+['aworan ona ti a lo lati se isiro ppv ti iba ti o wa ninu isegun gege bi who se salaye re']
+['awon omo ti alu lati se isiro gbigbe ti igba ti o wa ni ile ise gbigbe gbigbe popo ti kan lisisan se isola gege re']
+BLEU score: 10.523254180002885
+WER: 0.7727272727272727
+CER: 0.5568181818181818
+
+Unnormalised
+Àwòrán ọ̀nà tí a lò láti ṣe ìṣirò PPV ti ibà tí ó wà nínú ìṣègùn gẹ́gẹ́ bí WHO ṣe ṣàlàyé rẹ̀.
+àwọn ọmọ ti àlù láti ṣe ìṣirò pípí bí ti ìbá ti wọ́n máa pẹ̀lú ìṣe ẹ̀gbọ́n gẹ̀gẹ́gẹ́ bí pọ́ọ̀tọ̀ tí o kàníṣìṣàn ṣe ìṣọ̀la yìí.
+Normalised
+['aworan ona ti a lo lati se isiro ppv ti iba ti o wa ninu isegun gege bi who se salaye re']
+['awon omo ti alu lati se isiro pipi bi ti iba ti won maa pelu ise egbon gegege bi pooto ti o kanisisan se isola yii']
+BLEU score: 10.864991539917154
+WER: 0.8181818181818182
+CER: 0.5681818181818182
+
+Unnormalised
+Àwọn ànímọ́ àwọn aláìsàn ẹgbẹrun ati ẹgbẹ̀ta ati àádọ́ta tí wọ́n ní àrùn ibà tí a ti sọ ní ìṣègùn àti ìwádìí pípé lórí ìṣàn ibà ibà àti àwọn àbájáde CXR.
+àwọn àìníwọ̀n àwọ̀ aláìsàn ẹ̀gbẹ̀rún àti ìgbìtà àti àrẹ́tọ́tà tí wọ́n ní àrùn ẹ̀gbáà ń tí aṣọ ni iṣẹ́ ìgbọ̀n àti ìwọ̀n àti gírí orí.
+Normalised
+['awon animo awon alaisan egberun ati egbeta ati aadota ti won ni arun iba ti a ti so ni isegun ati iwadii pipe lori isan iba iba ati awon abajade cxr']
+['awon ainiwon awo alaisan egberun ati igbita ati aretota ti won ni arun egbaa n ti aso ni ise igbon ati iwon ati giri ori']
+BLEU score: 12.522831453090806
+WER: 0.6129032258064516
+CER: 0.40540540540540543
+
+Unnormalised
+Ní àkókò kan náà, àwọn ọ̀ràn ẹgbẹrun ati ẹgbẹ̀ta ati àádọ́ta ní àbájáde CXR àti àbájáde ibà, pẹ̀lú ọ̀ọ́dẹ́gbẹ̀rin ati mèjìdínlogorun (mèjìdínlàádọ́ta.
+ní mi àkókò kọ̀ọ́nà, àrùn olóẹ̀gbẹ̀ràn sí ègbèta àti yàrá tọ́ta ni àpájáde chr àti àpájáde ìgbà.
+Normalised
+['ni akoko kan naa awon oran egberun ati egbeta ati aadota ni abajade cxr ati abajade iba pelu oodegberin ati mejidinlogorun mejidinlaadota']
+['ni mi akoko koona arun oloegberan si egbeta ati yara tota ni apajade chr ati apajade igba']
+BLEU score: 4.4857451372357415
+WER: 0.8181818181818182
+CER: 0.5255474452554745
+
+Unnormalised
+Ní àkókò kan náà, àwọn ọ̀ràn ẹgbẹrun ati ẹgbẹ̀ta ati àádọ́ta ní àbájáde CXR àti àbájáde ibà, pẹ̀lú ọ̀ọ́dẹ́gbẹ̀rin ati mèjìdínlogorun (mèjìdínlàádọ́ta.
+ní àkókò kọ́ náà, àrùn orin, àgbẹ̀rún, àti ègbè, àti ààtọ́jà ni àtìàdì sí isr àti àtìàdì ìgbà.
+Normalised
+['ni akoko kan naa awon oran egberun ati egbeta ati aadota ni abajade cxr ati abajade iba pelu oodegberin ati mejidinlogorun mejidinlaadota']
+['ni akoko ko naa arun orin agberun ati egbe ati aatoja ni atiadi si isr ati atiadi igba']
+BLEU score: 4.704451129067909
+WER: 0.6818181818181818
+CER: 0.49635036496350365
+
+Unnormalised
+Láàrín àwọn ìṣàkóso àwùjọ ẹgbẹrun mèjì ati ogorun ati mẹ̀talélàádọ́ta pẹ̀lú àwọn àbájáde ibà tí ó wà, ọgbọ̀n (ọ̀kan.
+láàrí-àgbé ṣàkóso àlòjò ẹgbẹ́ mú méjì, àti òkú ọ̀nà, àti mẹ́ta ìlà àgbọ̀tà pẹ̀lú àwọn àpájáde ìpátilọ́wọ́ wà kòlùbá pọ̀
+Normalised
+['laarin awon isakoso awujo egberun meji ati ogorun ati metalelaadota pelu awon abajade iba ti o wa ogbon okan']
+['laariagbe sakoso alojo egbe mu meji ati oku ona ati meta ila agbota pelu awon apajade ipatilowo wa koluba po']
+BLEU score: 5.993031480537873
+WER: 0.8421052631578947
+CER: 0.3333333333333333
+
+Unnormalised
+Láàrín àwọn ìṣàkóso àwùjọ ẹgbẹrun mèjì ati ogorun ati mẹ̀talélàádọ́ta pẹ̀lú àwọn àbájáde ibà tí ó wà, ọgbọ̀n (ọ̀kan.
+láàrí-àgbé ṣàkóso àlòjò ẹbẹ̀ mújí, àti òkú ọlù, àti mẹ́ta ìlà àgbọ̀tà pẹ̀lú àwọn àpájákẹ̀ ìgbà tí ó máa wọ́n.
+Normalised
+['laarin awon isakoso awujo egberun meji ati ogorun ati metalelaadota pelu awon abajade iba ti o wa ogbon okan']
+['laariagbe sakoso alojo ebe muji ati oku olu ati meta ila agbota pelu awon apajake igba ti o maa won']
+BLEU score: 5.993031480537873
+WER: 0.8421052631578947
+CER: 0.3333333333333333
+
+Unnormalised
+Láàrín àwọn ìṣàkóso àwùjọ ẹgbẹrun mèjì ati ogorun ati mẹ̀talélàádọ́ta pẹ̀lú àwọn àbájáde ibà tí ó wà, ọgbọ̀n (ọ̀kan.
+láàrí-àlùgẹ̀ ṣàkóso àlòjò ẹbẹ̀ méjì, àti òkú ọ̀nà, àti mẹ́ta ìlà àgbọ̀ tàbí lọ àwọn àpájáde pátílọ́ wà fọ ìgbọ̀ọ́pọ̀
+Normalised
+['laarin awon isakoso awujo egberun meji ati ogorun ati metalelaadota pelu awon abajade iba ti o wa ogbon okan']
+['laarialuge sakoso alojo ebe meji ati oku ona ati meta ila agbo tabi lo awon apajade patilo wa fo igboopo']
+BLEU score: 4.814971807094068
+WER: 0.8947368421052632
+CER: 0.37962962962962965
+
+Unnormalised
+A tún lo àpẹẹrẹ náà láti ṣe ìṣirò ìpín ti pneumonia WHO tí àkóràn malaria fà, i.
+àtòlùwà pẹ̀rẹ̀ náà láti ṣe èṣèrè gbẹ̀ntì èwọ̀mírà, wọ́ọ́dé ọ̀tọ̀ kanlẹ́yìn tí ṣọ́ọ̀m tí a pọ̀ ọ̀rọ̀nà ìrírí-àfá àìgẹ́.
+Normalised
+['a tun lo apeere naa lati se isiro ipin ti pneumonia who ti akoran malaria fa i']
+['atoluwa pere naa lati se esere gbenti ewomira woode oto kanleyin ti soom ti a po orona iririafa aige']
+BLEU score: 8.961672320242714
+WER: 1.0
+CER: 0.717948717948718
+
+Unnormalised
+Mẹ̀rin pere ninu ogorun-un) ní ìfàsẹ́yìn rere: ẹ̀ẹ́dógún/ẹgbẹ̀rin ati ẹ̀rìnlá (ọ̀kan.
+ìgbé ẹ̀rìgbẹ̀rin ní owó kàn ọ̀rọ̀ ní ifásìní èèrì ẹ̀yẹ̀ẹ́dọ́gọ̀wọ̀ lórí egbérí àti ẹ̀rẹ̀ báàpọ̀ kan
+Normalised
+['merin pere ninu ogorunun ni ifaseyin rere eedogunegberin ati erinla okan']
+['igbe erigberin ni owo kan oro ni ifasini eeri eyeedogowo lori egberi ati ere baapo kan']
+BLEU score: 2.908317710573758
+WER: 1.2727272727272727
+CER: 0.5972222222222222
+
+Unnormalised
+Àwọn ìṣàkóṣo ni a ṣe ìbáramu pẹ̀lú àwọn ọ̀ràn náà ní ìbámu pẹ̀lú ọjọ́ ìforúkọsílẹ̀ àti ẹgbẹ́ ọjọ́ orí.
+àwọn ìṣàkóso rẹ̀ yà sí ìparáńta ìwà àwọn yùdá wá ní ìbá òmíràn ojú wọn, olùkọ́sílẹ̀, àgbẹ̀ ojú rẹ̀.
+Normalised
+['awon isakoso ni a se ibaramu pelu awon oran naa ni ibamu pelu ojo iforukosile ati egbe ojo ori']
+['awon isakoso re ya si iparanta iwa awon yuda wa ni iba omiran oju won olukosile agbe oju re']
+BLEU score: 4.814971807094068
+WER: 0.7894736842105263
+CER: 0.40425531914893614
+
+Unnormalised
+Àwọn ìṣàkóṣo ni a ṣe ìbáramu pẹ̀lú àwọn ọ̀ràn náà ní ìbámu pẹ̀lú ọjọ́ ìforúkọsílẹ̀ àti ẹgbẹ́ ọjọ́ orí.
+àwọn ìṣàkóso yìí a sì ìbálamu kọ̀ ìwà nù bọ̀ ní igi pẹ̀lú ọjọ́ ìkósoyẹ̀tì ìpòdé ògbọ̀ mi
+Normalised
+['awon isakoso ni a se ibaramu pelu awon oran naa ni ibamu pelu ojo iforukosile ati egbe ojo ori']
+['awon isakoso yii a si ibalamu ko iwa nu bo ni igi pelu ojo ikosoyeti ipode ogbo mi']
+BLEU score: 6.359341925314069
+WER: 0.6842105263157895
+CER: 0.40425531914893614
+
+Unnormalised
+Àwọn ìṣàkóṣo ni a ṣe ìbáramu pẹ̀lú àwọn ọ̀ràn náà ní ìbámu pẹ̀lú ọjọ́ ìforúkọsílẹ̀ àti ẹgbẹ́ ọjọ́ orí.
+àwọn ìsàkòsọ̀ yìí a sì ìbára pẹ̀gbo àlòyìn lọ méjì páwòpé wọn oúnjẹ òkú sílẹ̀ àti àgbé oúnjẹ òrùn.
+Normalised
+['awon isakoso ni a se ibaramu pelu awon oran naa ni ibamu pelu ojo iforukosile ati egbe ojo ori']
+['awon isakoso yii a si ibara pegbo aloyin lo meji pawope won ounje oku sile ati agbe ounje orun']
+BLEU score: 4.814971807094068
+WER: 0.7894736842105263
+CER: 0.4574468085106383
+
+Unnormalised
+Àwọn ìṣàkóṣo ni a ṣe ìbáramu pẹ̀lú àwọn ọ̀ràn náà ní ìbámu pẹ̀lú ọjọ́ ìforúkọsílẹ̀ àti ẹgbẹ́ ọjọ́ orí.
+àwọn ìṣàkòsògá sí ìbáràpọ̀ ìwà wọn á wọ́n ní igi pampe wọ́n jọ ọ̀rọ̀kọ̀sì àti ní ẹgbẹ́ ọ́jọ́ orin.
+Normalised
+['awon isakoso ni a se ibaramu pelu awon oran naa ni ibamu pelu ojo iforukosile ati egbe ojo ori']
+['awon isakosoga si ibarapo iwa won a won ni igi pampe won jo orokosi ati ni egbe ojo orin']
+BLEU score: 5.538003944406129
+WER: 0.8421052631578947
+CER: 0.40425531914893614
+
+Unnormalised
+Níkẹyìn, nípa lílo òtítọ́ pé àwọn ìṣeéṣe náà jẹ́ ọ̀kan, a lè ṣírò p3 gẹ́gẹ́ bí p  je mèjì.
+imikẹni ni wa ilu òòsì tópọ̀ ẹ àwọn àìṣẹ̀-ẹ̀ṣe náà sí ẹ̀wọ̀n, á lè ìṣẹ̀ òbí gẹ́gẹ̀bí ní ìjẹ́ mi.
+Normalised
+['nikeyin nipa lilo otito pe awon iseese naa je okan a le siro p3 gege bi p  je meji']
+['imikeni ni wa ilu oosi topo e awon aiseese naa si ewon a le ise obi gegebi ni ije mi']
+BLEU score: 4.553719184146073
+WER: 0.8947368421052632
+CER: 0.3902439024390244
+
+Unnormalised
+Níkẹyìn, nípa lílo òtítọ́ pé àwọn ìṣeéṣe náà jẹ́ ọ̀kan, a lè ṣírò p3 gẹ́gẹ́ bí p  je mèjì.
+níkẹ̀ yìí, ní parí lo òtìpọ́pẹ̀ àwọn òyìṣẹ̀ ṣe lọ jẹ́ ọ̀kan, máa lóyìí ìṣìrò pé ìgbòyì jẹ́gẹ́gbẹ̀ẹ́ lè jẹ́ ẹnu èjì mẹ́ẹ́rù.
+Normalised
+['nikeyin nipa lilo otito pe awon iseese naa je okan a le siro p3 gege bi p  je meji']
+['nike yii ni pari lo otipope awon oyise se lo je okan maa loyii isiro pe igboyi jegegbee le je enu eji meeru']
+BLEU score: 4.334264033674369
+WER: 1.0
+CER: 0.5365853658536586
+
+Unnormalised
+Níkẹyìn, nípa lílo òtítọ́ pé àwọn ìṣeéṣe náà jẹ́ ọ̀kan, a lè ṣírò p3 gẹ́gẹ́ bí p  je mèjì.
+níkẹ̀yì, nípa lílo òtí pọ̀ pé àwọn ìṣẹ̀ ìṣẹ̀ rí àwọn jẹ́ ọkọ̀, á ní ìṣẹ̀ òbí tó ìjẹgbẹ́rin ní jẹ́ méjì
+Normalised
+['nikeyin nipa lilo otito pe awon iseese naa je okan a le siro p3 gege bi p  je meji']
+['nikeyi nipa lilo oti po pe awon ise ise ri awon je oko a ni ise obi to ijegberin ni je meji']
+BLEU score: 6.429451441231725
+WER: 0.7368421052631579
+CER: 0.36585365853658536
+
+Unnormalised
+Ṣàkíyèsí pé r  je sigma ọ̀kan (ð okan) vp bá ìwọ̀n tí ó jẹ́ CXR-positive nínú ẹgbẹ́ malaria-slide-negative (Ẹgbẹ́ ọ̀kan).
+sáàkìyèsè pé ara jẹ́ sígmà tó kàn, ọkọ̀ ríkì bá ẹ̀rín tó jà sí ẹ̀dísà rẹ̀ pọ̀ sí ti nínú ọ̀bí ẹ̀bá nínú.
+Normalised
+['sakiyesi pe r  je sigma okan ð okan vp ba iwon ti o je cxrpositive ninu egbe malariaslidenegative egbe okan']
+['saakiyese pe ara je sigma to kan oko riki ba erin to ja si edisa re po si ti ninu obi eba ninu']
+BLEU score: 4.334264033674369
+WER: 0.95
+CER: 0.5420560747663551
+
+Unnormalised
+Iii) Àǹfààní àwọn àwárí CXR kò dá lórí wíwà àrùn ẹ̀dọ̀fóró malaria.
+àwàí, àọ̀fàà ni àwo̩n àwo̩n mi sí è̩sàn ò dálùrí, ní wó̩ ààrìrò fùn ó má ìrìyà náà.
+Normalised
+['iii anfaani awon awari cxr ko da lori wiwa arun edoforo malaria']
+['awai aofaa ni awon awon mi si esan o daluri ni wo aariro fun o ma iriya naa']
+BLEU score: 2.1476912089159055
+WER: 1.4166666666666667
+CER: 0.6190476190476191
+
+ROUGE-L Results:
+LCS Length: 6
+LCS Sequence: naa je awon a soke nipa
+Recall: 0.2727272727272727
+Precision: 0.2608695652173913
+F-score: 0.2666666666666666
+
+ROUGE-L Results:
+LCS Length: 13
+LCS Sequence: aworan ti a lo lati se isiro ti iba ti o wa se
+Recall: 0.5909090909090909
+Precision: 0.5
+F-score: 0.5416666666666667
+
+ROUGE-L Results:
+LCS Length: 10
+LCS Sequence: ti lati se isiro ti iba ti o wa se
+Recall: 0.45454545454545453
+Precision: 0.4
+F-score: 0.4255319148936171
+
+ROUGE-L Results:
+LCS Length: 10
+LCS Sequence: ti lati se isiro ti ti o wa ninu se
+Recall: 0.45454545454545453
+Precision: 0.37037037037037035
+F-score: 0.40816326530612246
+
+ROUGE-L Results:
+LCS Length: 10
+LCS Sequence: ti lati se isiro ti ti o wa se re
+Recall: 0.45454545454545453
+Precision: 0.38461538461538464
+F-score: 0.41666666666666663
+
+ROUGE-L Results:
+LCS Length: 9
+LCS Sequence: ti lati se isiro ti iba ti bi se
+Recall: 0.4090909090909091
+Precision: 0.34615384615384615
+F-score: 0.37500000000000006
+
+ROUGE-L Results:
+LCS Length: 13
+LCS Sequence: awon alaisan egberun ati ati ti won ni arun ti ni ati ati
+Recall: 0.41935483870967744
+Precision: 0.52
+F-score: 0.46428571428571425
+
+ROUGE-L Results:
+LCS Length: 6
+LCS Sequence: ni akoko egbeta ati ni ati
+Recall: 0.2727272727272727
+Precision: 0.35294117647058826
+F-score: 0.30769230769230765
+
+ROUGE-L Results:
+LCS Length: 7
+LCS Sequence: ni akoko naa ati ati ni ati
+Recall: 0.3181818181818182
+Precision: 0.3888888888888889
+F-score: 0.35000000000000003
+
+ROUGE-L Results:
+LCS Length: 6
+LCS Sequence: meji ati ati pelu awon wa
+Recall: 0.3157894736842105
+Precision: 0.3
+F-score: 0.3076923076923077
+
+ROUGE-L Results:
+LCS Length: 6
+LCS Sequence: ati ati pelu awon ti o
+Recall: 0.3157894736842105
+Precision: 0.3
+F-score: 0.3076923076923077
+
+ROUGE-L Results:
+LCS Length: 5
+LCS Sequence: meji ati ati awon wa
+Recall: 0.2631578947368421
+Precision: 0.25
+F-score: 0.25641025641025644
+
+ROUGE-L Results:
+LCS Length: 5
+LCS Sequence: naa lati se ti ti
+Recall: 0.29411764705882354
+Precision: 0.2631578947368421
+F-score: 0.27777777777777773
+
+ROUGE-L Results:
+LCS Length: 2
+LCS Sequence: ni ati
+Recall: 0.18181818181818182
+Precision: 0.125
+F-score: 0.14814814814814814
+
+ROUGE-L Results:
+LCS Length: 4
+LCS Sequence: awon isakoso awon ni
+Recall: 0.21052631578947367
+Precision: 0.21052631578947367
+F-score: 0.21052631578947367
+
+ROUGE-L Results:
+LCS Length: 6
+LCS Sequence: awon isakoso a ni pelu ojo
+Recall: 0.3157894736842105
+Precision: 0.3333333333333333
+F-score: 0.3243243243243243
+
+ROUGE-L Results:
+LCS Length: 4
+LCS Sequence: awon isakoso a ati
+Recall: 0.21052631578947367
+Precision: 0.21052631578947367
+F-score: 0.21052631578947367
+
+ROUGE-L Results:
+LCS Length: 6
+LCS Sequence: awon a ni ati egbe ojo
+Recall: 0.3157894736842105
+Precision: 0.3157894736842105
+F-score: 0.3157894736842105
+
+ROUGE-L Results:
+LCS Length: 4
+LCS Sequence: awon naa a le
+Recall: 0.21052631578947367
+Precision: 0.2
+F-score: 0.20512820512820512
+
+ROUGE-L Results:
+LCS Length: 5
+LCS Sequence: awon je okan le je
+Recall: 0.2631578947368421
+Precision: 0.21739130434782608
+F-score: 0.23809523809523808
+
+ROUGE-L Results:
+LCS Length: 8
+LCS Sequence: nipa lilo pe awon je a je meji
+Recall: 0.42105263157894735
+Precision: 0.36363636363636365
+F-score: 0.3902439024390244
+
+ROUGE-L Results:
+LCS Length: 6
+LCS Sequence: pe je sigma ba ti ninu
+Recall: 0.3
+Precision: 0.2608695652173913
+F-score: 0.27906976744186046
+
+ROUGE-L Results:
+LCS Length: 1
+LCS Sequence: awon
+Recall: 0.08333333333333333
+Precision: 0.05555555555555555
+F-score: 0.06666666666666667

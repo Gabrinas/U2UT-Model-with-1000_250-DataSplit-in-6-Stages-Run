@@ -1,0 +1,69 @@
+Fourth Experiments
+
+original 866: Nítorí náà, bí ẹgbẹ́ yìí ṣe jẹ́ àwọn ọ̀ràn pneumonia tòótọ́ nípa àbájáde ọ̀kan, a ń gbé q sókè nípa ọ̀kan/(ìfàmọ́ra CXR).
+ASR @epoch185:  alítorí náà bii ipe iṣè jẹ́ àwọn orò ní òyìn à tóò tọ́lẹ̀ pàrá àpá jádé ògùn, tó àwọn báìkìrò sókè nípa ọ̀pọ̀.
+
+
+882: Àwòrán ọ̀nà tí a lò láti ṣe ìṣirò PPV ti ibà tí ó wà nínú ìṣègùn gẹ́gẹ́ bí WHO ṣe ṣàlàyé rẹ̀. --> being played
+ASR @epoch189: aworan náà tí a ló láti ṣe iṣiro píbírí, tí ìbá tí ó wà, mẹ́lù ìṣe ọ̀gẹ́gẹ̀bí, wọ́n dín ọ̀tọ̀ balẹ̀zíṣọ̀ ń ṣe iṣẹ́ láyé ìrẹ̀.
+ASR @epoch206: àwọn ọmọ ti àlù láti ṣe ìṣirò pípírí ti ìbá tí ó wà pẹ̀lú lè ṣe ẹ̀gbọ́ gẹ́gẹ́gẹ́gẹ́ wọ́n yóò ṣọ̀gára ẹgbẹ́sọ̀ ṣe ṣẹ̀ láyé
+ASR @epoch240: àwọn ọmọ ti àlù láti ṣe ìṣirò pẹpẹ tí ìgbà tí ó wà nínú iṣẹ́ gbogbo ẹ̀gẹ́gbẹ̀rẹ̀, wọ́n kí ó ti baalé jíṣọ́ ṣe ẹ̀ṣọ́ náà yìí.
+ASR @epoch388: àwọn ọmọ ti àlù láti ṣe ìṣirò gbígbẹ́ tí ìgbà tí ó wà ní ilé ìṣẹ̀ gbígbé gbígbé pọ́pọ́ tí kán lísìsàn ṣe ìṣọ́lá gẹ́gẹ́ rẹ̀.
+ASR @epoch457: àwọn ọmọ ti àlù láti ṣe ìṣirò pípí bí ti ìbá ti wọ́n máa pẹ̀lú ìṣe ẹ̀gbọ́n gẹ̀gẹ́gẹ́ bí pọ́ọ̀tọ̀ tí o kàníṣìṣàn ṣe ìṣọ̀la yìí.
+
+890: Àwọn ànímọ́ àwọn aláìsàn ẹgbẹrun ati ẹgbẹ̀ta ati àádọ́ta tí wọ́n ní àrùn ibà tí a ti sọ ní ìṣègùn àti ìwádìí pípé lórí ìṣàn ibà ibà àti àwọn àbájáde CXR. --> being played
+ASR @epoch189:  àwọn àìníwọ̀n àwọ̀ aláìsàn ẹ̀gbẹ̀rún àti ìgbìtà àti àrẹ́tọ́tà tí wọ́n ní àrùn ẹ̀gbáà ń tí aṣọ ni iṣẹ́ ìgbọ̀n àti ìwọ̀n àti gírí orí. [cut]
+
+
+874: Ní àkókò kan náà, àwọn ọ̀ràn ẹgbẹrun ati ẹgbẹ̀ta ati àádọ́ta ní àbájáde CXR àti àbájáde ibà, pẹ̀lú ọ̀ọ́dẹ́gbẹ̀rin ati mèjìdínlogorun (mèjìdínlàádọ́ta. --> being played
+ASR @epoch207: ní mi àkókò kọ̀ọ́nà, àrùn olóẹ̀gbẹ̀ràn sí ègbèta àti yàrá tọ́ta ni àpájáde chr àti àpájáde ìgbà. [cut]
+ASR @epoch270: ní àkókò kọ́ náà, àrùn orin, àgbẹ̀rún, àti ègbè, àti ààtọ́jà ni àtìàdì sí isr àti àtìàdì ìgbà. [cut]
+
+878: Láàrín àwọn ìṣàkóso àwùjọ ẹgbẹrun mèjì ati ogorun ati mẹ̀talélàádọ́ta pẹ̀lú àwọn àbájáde ibà tí ó wà, ọgbọ̀n (ọ̀kan.
+ASR @epoch240: láàrí-àgbé ṣàkóso àlòjò ẹgbẹ́ mú méjì, àti òkú ọ̀nà, àti mẹ́ta ìlà àgbọ̀tà pẹ̀lú àwọn àpájáde ìpátilọ́wọ́ wà kòlùbá pọ̀
+ASR @epoch388: láàrí-àgbé ṣàkóso àlòjò ẹbẹ̀ mújí, àti òkú ọlù, àti mẹ́ta ìlà àgbọ̀tà pẹ̀lú àwọn àpájákẹ̀ ìgbà tí ó máa wọ́n.
+ASR @epoch457: láàrí-àlùgẹ̀ ṣàkóso àlòjò ẹbẹ̀ méjì, àti òkú ọ̀nà, àti mẹ́ta ìlà àgbọ̀ tàbí lọ àwọn àpájáde pátílọ́ wà fọ ìgbọ̀ọ́pọ̀
+
+
+871: A tún lo àpẹẹrẹ náà láti ṣe ìṣirò ìpín ti pneumonia WHO tí àkóràn malaria fà, i.
+ASR @epoch289: àtòlùwà pẹ̀rẹ̀ náà láti ṣe èṣèrè gbẹ̀ntì èwọ̀mírà, wọ́ọ́dé ọ̀tọ̀ kanlẹ́yìn tí ṣọ́ọ̀m tí a pọ̀ ọ̀rọ̀nà ìrírí-àfá àìgẹ́.
+
+879: Mẹ̀rin pere ninu ogorun-un) ní ìfàsẹ́yìn rere: ẹ̀ẹ́dógún/ẹgbẹ̀rin ati ẹ̀rìnlá (ọ̀kan.
+ASR @epoch353: ìgbé ẹ̀rìgbẹ̀rin ní owó kàn ọ̀rọ̀ ní ifásìní èèrì ẹ̀yẹ̀ẹ́dọ́gọ̀wọ̀ lórí egbérí àti ẹ̀rẹ̀ báàpọ̀ kan
+
+858: Àwọn ìṣàkóṣo ni a ṣe ìbáramu pẹ̀lú àwọn ọ̀ràn náà ní ìbámu pẹ̀lú ọjọ́ ìforúkọsílẹ̀ àti ẹgbẹ́ ọjọ́ orí.
+ASR @epoch356: àwọn ìṣàkóso rẹ̀ yà sí ìparáńta ìwà àwọn yùdá wá ní ìbá òmíràn ojú wọn, olùkọ́sílẹ̀, àgbẹ̀ ojú rẹ̀.
+ASR @epoch364: àwọn ìṣàkóso yìí a sì ìbálamu kọ̀ ìwà nù bọ̀ ní igi pẹ̀lú ọjọ́ ìkósoyẹ̀tì ìpòdé ògbọ̀ mi
+ASR @epoch411: àwọn ìsàkòsọ̀ yìí a sì ìbára pẹ̀gbo àlòyìn lọ méjì páwòpé wọn oúnjẹ òkú sílẹ̀ àti àgbé oúnjẹ òrùn.
+ASR @epoch532: àwọn ìṣàkòsògá sí ìbáràpọ̀ ìwà wọn á wọ́n ní igi pampe wọ́n jọ ọ̀rọ̀kọ̀sì àti ní ẹgbẹ́ ọ́jọ́ orin.
+
+888: Níkẹyìn, nípa lílo òtítọ́ pé àwọn ìṣeéṣe náà jẹ́ ọ̀kan, a lè ṣírò p3 gẹ́gẹ́ bí p  je mèjì.
+ASR @epoch367: imikẹni ni wa ilu òòsì tópọ̀ ẹ àwọn àìṣẹ̀-ẹ̀ṣe náà sí ẹ̀wọ̀n, á lè ìṣẹ̀ òbí gẹ́gẹ̀bí ní ìjẹ́ mi.
+ASR @epoch429: níkẹ̀ yìí, ní parí lo òtìpọ́pẹ̀ àwọn òyìṣẹ̀ ṣe lọ jẹ́ ọ̀kan, máa lóyìí ìṣìrò pé ìgbòyì jẹ́gẹ́gbẹ̀ẹ́ lè jẹ́ ẹnu èjì mẹ́ẹ́rù.
+ASR @epoch546: níkẹ̀yì, nípa lílo òtí pọ̀ pé àwọn ìṣẹ̀ ìṣẹ̀ rí àwọn jẹ́ ọkọ̀, á ní ìṣẹ̀ òbí tó ìjẹgbẹ́rin ní jẹ́ méjì
+
+
+865: Ṣàkíyèsí pé r  je sigma ọ̀kan (ð okan) vp bá ìwọ̀n tí ó jẹ́ CXR-positive nínú ẹgbẹ́ malaria-slide-negative (Ẹgbẹ́ ọ̀kan).
+ASR @epoch456: sáàkìyèsè pé ara jẹ́ sígmà tó kàn, ọkọ̀ ríkì bá ẹ̀rín tó jà sí ẹ̀dísà rẹ̀ pọ̀ sí ti nínú ọ̀bí ẹ̀bá nínú. [cut]
+
+860: Iii) Àǹfààní àwọn àwárí CXR kò dá lórí wíwà àrùn ẹ̀dọ̀fóró malaria.
+ASR @epoch491: àwàí, àọ̀fàà ni àwo̩n àwo̩n mi sí è̩sàn ò dálùrí, ní wó̩ ààrìrò fùn ó má ìrìyà náà.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
